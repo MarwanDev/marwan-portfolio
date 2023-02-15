@@ -1,0 +1,30 @@
+html {
+    box-sizing: border-box;
+  }
+  
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+nav {
+    background-color: #3E3C3C;
+    height: 72px;
+    margin: 0;
+    position: fixed;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+.name-container {
+    flex: 1 0 250px;
+}
+
+.links-container {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+}
+
