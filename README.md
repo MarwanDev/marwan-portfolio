@@ -54,12 +54,12 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Marwan Portfolio <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
-**[your_project__name]** is a...
+**Marwan Portfolio** is a...
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With <a name="built-with"> HTML & CSS</a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -90,9 +90,8 @@ After you're finished please remove all the comments and instructions!
 ### Key Features <a name="key-features"></a>
 
 > Describe between 1-3 key features of the application.
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **Information about developer**
+- **Previous Work**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -114,7 +113,7 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
+In order to run this project you need: VSC, npm
 
 <!--
 Example command:
@@ -186,17 +185,12 @@ Example:
 ## 👥 Authors <a name="authors"></a>
 
 > Mention all of the collaborators of this project.
-👤 **Author1**
+👤 **Marwan Abdelsattar**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/marwandev)
+- Twitter: [@twitterhandle](https://twitter.com/marwaneg)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle](https://www.linkedin.com/in/marwan-abdelsattar-665a59105/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -205,9 +199,7 @@ Example:
 ## 🔭 Future Features <a name="future-features"></a>
 
 > Describe 1 - 3 features you will add to the project.
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **Desktop View**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -226,7 +218,7 @@ Feel free to check the [issues page](../../issues/).
 ## ⭐️ Show your support <a name="support"></a>
 
 > Write a message to encourage readers to support your project
-If you like this project...
+If you like this project, start the repo
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -259,7 +251,5 @@ I would like to thank...
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
