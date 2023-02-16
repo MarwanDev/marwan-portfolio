@@ -1,122 +1,245 @@
+<a name="readme-top"></a>
 
-Microverse README Template
-📗 Table of Contents
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
+Modify this file to match your project and remove sections that don't apply.
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
+OPTIONAL SECTIONS:
+- FAQ
+After you're finished please remove all the comments and instructions!
+-->
 
-    📖 About the Project
-        🛠 Built With
-            Tech Stack
-            Key Features
-        🚀 Live Demo
-    💻 Getting Started
-        Setup
-        Prerequisites
-        Install
-        Usage
-        Run tests
-        Deployment
-    👥 Authors
-    🔭 Future Features
-    🤝 Contributing
-    ⭐️ Show your support
-    🙏 Acknowledgements
-    ❓ FAQ (OPTIONAL)
-    📝 License
 
-📖 Marwan Portfolio
+  <br/>
 
-    Describe your project in 1 or 2 sentences. Marwan Portfolio is a...
+  <h3><b>Microverse README Template</b></h3>
 
-🛠 Built With HTML & CSS
-Tech Stack
+</div>
 
-    Describe the tech stack and include only the relevant sections that apply to your project.
+<!-- TABLE OF CONTENTS -->
 
-Client
-Server
-Database
-Key Features
+# 📗 Table of Contents
 
-    Describe between 1-3 key features of the application.
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
 
-    Information about developer
-    Previous Work
+<!-- PROJECT DESCRIPTION -->
 
-(back to top)
-🚀 Live Demo
+# 📖 Marwan Portfolio <a name="about-project"></a>
 
-    Add a link to your deployed project.
+> Describe your project in 1 or 2 sentences.
+**Marwan Portfolio** is a...
+## 🛠 Built With <a name="built-with"> HTML & CSS</a>
 
-    Live Demo Link
+### Tech Stack <a name="tech-stack"></a>
 
-(back to top)
-💻 Getting Started
+> Describe the tech stack and include only the relevant sections that apply to your project.
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://expressjs.com/">Express.js</a></li>
+  </ul>
+</details>
 
-    Describe how a new developer could make use of your project. To get a local copy up and running, follow these steps.
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
 
-Prerequisites
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+> Describe between 1-3 key features of the application.
+- **Information about developer**
+- **Previous Work**
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+- [Live Demo Link](https://yourdeployedapplicationlink.com)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> Describe how a new developer could make use of your project.
+To get a local copy up and running, follow these steps.
+### Prerequisites
 
 In order to run this project you need: VSC, npm
-Setup
+
+<!--
+Example command:
+```sh
+ gem install rails
+```
+ -->
+
+### Setup
 
 Clone this repository to your desired folder:
-Install
+
+<!--
+Example commands:
+```sh
+  cd my-folder
+  git clone git@github.com:myaccount/my-project.git
+```
+--->
+
+### Install
 
 Install this project with:
-Usage
+
+<!--
+Example command:
+```sh
+  cd my-project
+  gem install
+```
+--->
+
+### Usage
 
 To run the project, execute the following command:
-Run tests
+
+<!--
+Example command:
+```sh
+  rails server
+```
+--->
+
+### Run tests
 
 To run tests, run the following command:
-Deployment
+
+<!--
+Example command:
+```sh
+  bin/rails test test/models/article_test.rb
+```
+--->
+
+### Deployment
 
 You can deploy this project using:
 
-(back to top)
-👥 Authors
+<!--
+Example:
+```sh
+```
+ -->
 
-    Mention all of the collaborators of this project. 👤 Marwan Abdelsattar
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-    GitHub: @githubhandle
-    Twitter: @twitterhandle
-    LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle](https://www.linkedin.com/in/marwan-abdelsattar-665a59105/)
+<!-- AUTHORS -->
 
-(back to top)
-🔭 Future Features
+## 👥 Authors <a name="authors"></a>
 
-    Describe 1 - 3 features you will add to the project.
+> Mention all of the collaborators of this project.
+👤 **Marwan Abdelsattar**
+- GitHub: [@githubhandle](https://github.com/marwandev)
+- Twitter: [@twitterhandle](https://twitter.com/marwaneg)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle](https://www.linkedin.com/in/marwan-abdelsattar-665a59105/)
 
-    Desktop View
 
-(back to top)
-🤝 Contributing
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+- [ ] **Desktop View**
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the [issues page](../../issues/).
 
-(back to top)
-⭐️ Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-    Write a message to encourage readers to support your project If you like this project, start the repo
+<!-- SUPPORT -->
 
-(back to top)
-🙏 Acknowledgments
+## ⭐️ Show your support <a name="support"></a>
 
-    Give credit to everyone who inspired your codebase. I would like to thank...
+> Write a message to encourage readers to support your project
+If you like this project, start the repo
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-(back to top)
-❓ FAQ (OPTIONAL)
+<!-- ACKNOWLEDGEMENTS -->
 
-    Add at least 2 questions new developers would ask when they decide to use your project.
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-    [Question_1]
-        [Answer_1]
+> Give credit to everyone who inspired your codebase.
+I would like to thank...
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-    [Question_2]
-        [Answer_2]
+<!-- FAQ (optional) -->
 
-(back to top)
-📝 License
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-This project is MIT licensed.
+> Add at least 2 questions new developers would ask when they decide to use your project.
+- **[Question_1]**
+  - [Answer_1]
+
+- **[Question_2]**
+
+  - [Answer_2]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
