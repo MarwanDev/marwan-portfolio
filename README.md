@@ -106,7 +106,7 @@ Clone this repository to your desired folder:
 
 Clone this repository or download the Zip folder:
 
-**`git clone https://github.com/habasm/Math-Magicians.git`**
+**`git clone https://github.com/MarwanDev/marwan-portfolio.git**
 
 ### Install
 
