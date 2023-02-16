@@ -6,6 +6,8 @@
   -moz-box-sizing: border-box;
 }
 
+
+
 nav {
   background-color: #3e3c3c;
   height: 92px;
@@ -69,7 +71,7 @@ nav .bar1,
 }
 
 .header .job-desc {
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   color: #fff5e1;
   font-weight: 700;
   font-size: 24px;
@@ -78,7 +80,7 @@ nav .bar1,
 }
 
 .header .intro {
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -88,20 +90,11 @@ nav .bar1,
   margin-left: 10px;
 }
 
-.icons-container {
+.icons-container > ul {
   display: flex;
-  flex: row;
   justify-content: space-between;
   max-width: 50%;
   margin-left: 10px;
-}
-
-.bg-container {
-  width: 50%;
-  left: 0px;
-  top: 92px;
-  background-image: url(assets/Illustration-header.png);
-}
-
-@media screen and (max-width: 375px) {
+  flex-direction: row;
+  list-style-type: none;  
 }
