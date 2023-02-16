@@ -54,32 +54,22 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Marwan Portfolio <a name="about-project"></a>
+# 📖 [Marwan Portfolio] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
-**Marwan Portfolio** is a...
+**[Marwan Portfolio]** is a project <b>Marwan Portfolio: <u>events</u></b> of the project named <b>Marwan Portfollio.</b>
 ## 🛠 Built With <a name="built-with"> HTML & CSS</a>
 
+## 🛠 Built With <a name="built-with"></a>
+> HTML,
+> CSS and
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="#">HTML</a></li>
+    <li><a href="#">CSS</a></li>
   </ul>
 </details>
 
@@ -87,47 +77,36 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-- **Information about developer**
-- **Previous Work**
+- **[Displaying navbar]**
+- **[Displaying information abou author]**
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+### Coming Soon
 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-To get a local copy up and running, follow these steps.
-### Prerequisites
+> > To get a local copy up and running, follow these steps.
 
-In order to run this project you need: VSC, npm
+## Prerequisites
 
-<!--
-Example command:
-```sh
- gem install rails
-```
- -->
+In order to run this project you need:
+
+> Computer with internet and
+> Visual Studio Code
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
+Clone this repository or download the Zip folder:
+
+**`git clone https://github.com/habasm/Math-Magicians.git`**
 
 ### Install
 
@@ -202,7 +181,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://habasm.github.io/awsomebooks/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -210,36 +189,20 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-If you like this project, start the repo
+> If you like this project please give a star.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-I would like to thank...
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-- **[Question_1]**
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
+> I would like to thank my coding partner
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
