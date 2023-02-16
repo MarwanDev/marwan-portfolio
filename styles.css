@@ -1,30 +1,106 @@
-html {
-    box-sizing: border-box;
-  }
-  
-  *, *:before, *:after {
-    box-sizing: inherit;
-  }
-
-nav {
-    background-color: #3E3C3C;
-    height: 72px;
-    margin: 0;
-    position: fixed;
-    width: 100%;
-    display: flex;
-    flex-direction: row;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
 }
 
+nav {
+  background-color: #3e3c3c;
+  height: 92px;
+  position: fixed;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 24px;
+}
 
+nav .bar1,
+.bar2,
+.bar3 {
+  width: 35px;
+  height: 5px;
+  background-color: white;
+  margin: 6px 0;
+}
 
 .name-container {
-    flex: 1 0 250px;
+  flex: 1 0 250px;
+}
+
+.name-container h2 {
+  color: #ffffff;
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.links-container ul {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
 }
 
 .links-container {
-    display: flex;
-    flex-direction: row;
-    align-items: flex-end;
+  display: none;
+  background-color: #3e3c3c;
 }
 
+.header {
+  background-color: #1c1a19;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  min-height: 100vh;
+  background-image: url(assets/Illustration-header.png);
+  background-size: 40%;
+  background-repeat: no-repeat;
+  background-position: bottom right;
+}
+
+.header .welcome h1 {
+  color: #ff6b00;
+  font-size: 56px;
+  margin-top: 150px;
+  font-family: "Crete Round", sans-serif;
+}
+
+.header .job-desc {
+  font-family: "Roboto";
+  color: #fff5e1;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+}
+
+.header .intro {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #fff5e1;
+  max-width: 50%;
+}
+
+.icons-container {
+  margin-top: 30px;
+  display: flex;
+  flex: row;
+  justify-content: space-between;
+  max-width: 50%;
+}
+
+.bg-container {
+  width: 50%;
+  left: 0px;
+  top: 92px;
+  background-image: url(assets/Illustration-header.png);
+}
+
+
+@media screen and (max-width:375px) {
+  
+}
