@@ -65,6 +65,7 @@ nav .bar1,
   font-size: 56px;
   margin-top: 150px;
   font-family: "Crete Round", sans-serif;
+  margin-left: 10px;
 }
 
 .header .job-desc {
@@ -73,6 +74,7 @@ nav .bar1,
   font-weight: 700;
   font-size: 24px;
   line-height: 32px;
+  margin-left: 10px;
 }
 
 .header .intro {
@@ -83,14 +85,16 @@ nav .bar1,
   line-height: 24px;
   color: #fff5e1;
   max-width: 50%;
+  margin-left: 10px;
+
 }
 
 .icons-container {
-  margin-top: 30px;
   display: flex;
   flex: row;
   justify-content: space-between;
   max-width: 50%;
+  margin-left: 10px;
 }
 
 .bg-container {
