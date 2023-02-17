@@ -61,7 +61,6 @@ nav .bar1,
 }
 
 
-
 .header .job-desc {
   font-family: "Roboto", sans-serif;
   color: #fff5e1;
@@ -130,17 +129,17 @@ hr {
 }
 
 .head-work h2 {
-  text-align: left; 
+  text-align: left;
   margin-left: 36px;
   margin-top: 24px;
   font-weight: 400;
   font-size: 32px;
   line-height: 44px;
-  color: #091e42
+  color: #091e42;
 }
 
 .recent-works p {
-  text-align: left; 
+  text-align: left;
   margin-left: 36px;
   margin-top: 24px;
   max-width: 80%;
@@ -174,7 +173,7 @@ hr {
 .head-work .project-button {
   background-color: #ff6b00;
   height: 48px;
-  color: #ffffff;
+  color: #fff;
   align-self: flex-start;
   margin-left: 36px;
   margin-top: 20px;
@@ -195,7 +194,7 @@ hr {
   display: flex;
   flex-direction: column;
   max-height: 80vh;
-  background-image: url(assets/Img\ Placeholder\(1\).png);
+  background-image: url(assets/Img\ Placeholder\(1\).png) ;
   background-repeat: no-repeat;
   background-size: 90%;
   padding-left: 16px;
@@ -204,19 +203,18 @@ hr {
 }
 
 .work h2 {
-  text-align: left; 
+  text-align: left;
   margin-left: 36px;
   margin-top: 24px;
   font-weight: 400;
   font-size: 32px;
   line-height: 44px;
-  color: #091e42;
   width: 80%;
   color: #fff;
 }
 
 .work p {
-  text-align: left; 
+  text-align: left;
   margin-left: 36px;
   margin-top: 24px;
   max-width: 80%;
@@ -234,9 +232,8 @@ hr {
   justify-content: space-between;
   align-items: center;
   margin-left: 36px;
-  margin-top: 24px;
   max-width: 80%;
-  margin-top: 10px ;
+  margin-top: 10px;
 }
 
 .work h3 {
@@ -283,12 +280,20 @@ hr {
   line-height: 88px;
   font-family: "Crete Round", sans-serif;
   margin-top: 50px;
-  color: #FF6B00;
+  color: #ff6b00;
   margin-left: 20px;
 }
 
+.header .welcome h1 {
+  color: #ff6b00;
+  font-size: 56px;
+  margin-top: 150px;
+  font-family: "Crete Round", sans-serif;
+  margin-left: 10px;
+}
+
 .about p {
-  color: #F4F5F7;
+  color: #f4f5f7;
   margin-left: 20px;
   max-width: 80%;
   font-family: 'Inter', sans-serif;
@@ -338,17 +343,15 @@ hr {
   font-weight: 700;
   font-size: 32px;
   line-height: 44px;
-  color: #fff
-  ;
-} 
-
+  color: #fff;
+}
 
 .skills-container .skills-title h2 {
   margin-left: 10px;
 }
 
 .skills-container ul {
-  justify-content: space-between;  
+  justify-content: space-between; 
   margin-top: 20px;
 }
 
@@ -360,4 +363,3 @@ hr {
   line-height: 43px;
   color: #fff;
 }
-
