@@ -31,7 +31,7 @@ nav .bar1,
 }
 
 .name-container h2 {
-  color: #ffffff;
+  color: #fff;
   font-family: "Roboto", sans-serif;
   font-size: 18px;
   font-weight: 700;
@@ -60,13 +60,7 @@ nav .bar1,
   background-position: bottom right;
 }
 
-.header .welcome h1 {
-  color: #ff6b00;
-  font-size: 56px;
-  margin-top: 150px;
-  font-family: "Crete Round", sans-serif;
-  margin-left: 10px;
-}
+
 
 .header .job-desc {
   font-family: "Roboto", sans-serif;
@@ -94,11 +88,11 @@ nav .bar1,
   max-width: 50%;
   margin-left: 10px;
   flex-direction: row;
-  list-style-type: none;  
+  list-style-type: none;
 }
 
 .recent-works {
-  background-color: #E5E5E5;
+  background-color: #e5e5e5;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
@@ -110,6 +104,14 @@ nav .bar1,
   margin-top: 30px;
   font-family: "Crete Round", sans-serif;
   color: #1C1A19;
+}
+
+.header .welcome h1 {
+  color: #ff6b00;
+  font-size: 56px;
+  margin-top: 150px;
+  font-family: "Crete Round", sans-serif;
+  margin-left: 10px;
 }
 
 hr {
@@ -134,7 +136,7 @@ hr {
   font-weight: 400;
   font-size: 32px;
   line-height: 44px;
-  color: #091E42
+  color: #091e42
 }
 
 .recent-works p {
@@ -161,7 +163,7 @@ hr {
 
 .techstack-container h3 {
   font-family: 'Inter', sans-serif;
-  border: 1px solid #8993A4;
+  border: 1px solid #8993a4;
   font-style: normal;
   font-weight: 500;
   font-size: 15px;
@@ -172,9 +174,8 @@ hr {
 .head-work .project-button {
   background-color: #ff6b00;
   height: 48px;
-  align-self: flex-start;
   color: #ffffff;
-  align-self: left;
+  align-self: flex-start;
   margin-left: 36px;
   margin-top: 20px;
   padding: 12px;
@@ -186,7 +187,7 @@ hr {
 
 .works {
   display: grid;
-  background-color: #E5E5E5;
+  background-color: #e5e5e5;
   row-gap: 10px;
 }
 
@@ -209,9 +210,9 @@ hr {
   font-weight: 400;
   font-size: 32px;
   line-height: 44px;
-  color: #091E42;
+  color: #091e42;
   width: 80%;
-  color: #FFFFFF;
+  color: #fff;
 }
 
 .work p {
@@ -224,7 +225,7 @@ hr {
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
-  color: #FFFFFF;
+  color: #fff;
 }
 
 .work .techstack-container {
@@ -239,14 +240,13 @@ hr {
 }
 
 .work h3 {
-  color: #FFFFFF;
+  color: #fff;
 }
 
 .work .project-button {
   background-color: #ff6b00;
   height: 48px;
-  align-self: flex-start;
-  color: #ffffff;
+  color: #fff;
   align-self: left;
   margin-top: 22px;
   margin-left: 1.5px;
@@ -260,7 +260,7 @@ hr {
 }
 
 .about {
-  background-color: #1C1A19;
+  background-color: #1c1a19;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -300,9 +300,8 @@ hr {
 .about button {
   background-color: #ff6b00;
   height: 48px;
+  color: #fff;
   align-self: flex-start;
-  color: #ffffff;
-  align-self: left;
   margin-left: 20px;
   margin-top: 20px;
   padding: 12px;
@@ -317,7 +316,7 @@ hr {
   margin-bottom: 10px;
   width: 90%;
   align-self: center;
-  color: #FFFFFF;
+  color: #fff;
 }
 
 .skills-container {
@@ -339,7 +338,8 @@ hr {
   font-weight: 700;
   font-size: 32px;
   line-height: 44px;
-  color: #FFFFFF;
+  color: #fff
+  ;
 } 
 
 
@@ -358,6 +358,6 @@ hr {
   font-weight: 400;
   font-size: 22px;
   line-height: 43px;
-  color: #FFFFFF;
+  color: #fff;
 }
 
